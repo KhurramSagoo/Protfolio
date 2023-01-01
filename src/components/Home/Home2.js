@@ -76,6 +76,7 @@ function Home2() {
             </ul>
           </Col>
         </Row>
+
       </Container>
     </Container>
   );
